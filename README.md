@@ -11,21 +11,21 @@ initialize package.json `$ npm init`
 install as devDependencies for your projects `$ npm install --save-dev gulp`
 
 #### Plugins installation:
-gulp utilities plugin `$ npm install --save-dev gulp-util`
+* gulp utilities plugin `$ npm install --save-dev gulp-util`
 
-gulp jshint plugin `$ npm install --save-dev gulp-jshint jshint-stylish`
+* gulp jshint plugin `$ npm install --save-dev gulp-jshint jshint-stylish`
 
-gulp sass plugin `$ npm install --save-dev gulp-sass`
+* gulp sass plugin `$ npm install --save-dev gulp-sass`
 
-js concatenation plugin `$ npm install --save-dev gulp-concat`
+* js concatenation plugin `$ npm install --save-dev gulp-concat`
 
-js minify plugin `$ npm install --save-dev gulp-uglify`
+* js minify plugin `$ npm install --save-dev gulp-uglify`
 
-css minify plugin `$ npm install --save-dev gulp-clean-css `
+* css minify plugin `$ npm install --save-dev gulp-clean-css `
 
-creates sourcemaps to fallback to initial source code `$ npm install --save-dev gulp-sourcemaps`
+* creates sourcemaps to fallback to initial source code `$ npm install --save-dev gulp-sourcemaps`
 
-minify's images - .jpg, .png, .svg, .gif `$ npm install --save-dev gulp-imagemin`
+* minify's images - .jpg, .png, .svg, .gif `$ npm install --save-dev gulp-imagemin`
 
 #### Reference
 Link to [scotch.io](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
